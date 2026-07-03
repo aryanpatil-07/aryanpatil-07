@@ -98,7 +98,11 @@ Engineering-focused platform emphasizing structured development and workflow man
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" height="48"/>
+
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render"/>
+
+  <img src="https://cdn.simpleicons.org/openrouter/8B5CF6" height="48" alt="OpenRouter"/>
 </p>
 
 ---
