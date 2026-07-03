@@ -1,11 +1,11 @@
 <h1 align="center">Aryan Patil</h1>
 
 <p align="center">
-Building AI Systems • Knowledge Tools • Software Engineering
+Building AI Systems • Research • Software Engineering
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=AAAAAA&center=true&vCenter=true&width=700&lines=Building+Second+Brain+AI;Exploring+Intelligence+and+Complex+Systems;Software+Engineering+Student;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Creating+Second+Brain+AI;Building+Research+Papers;Exploring+Intelligence+and+Complex+Systems;Software+Engineering+Student;Open+Source+Contributor" />
 </p>
 
 <p align="center">
