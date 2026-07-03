@@ -43,9 +43,9 @@ A local-first knowledge system powered by MERN and local language models.
 
 ---
 
-### ⚙️ Project Engineering
+### 🔨 Open Source
 
-Engineering-focused platform emphasizing structured development and workflow management.
+Contributing through GSSOC and community-driven software projects.
 
 ---
 
@@ -63,9 +63,9 @@ A software platform focused on movement, logistics, and operational efficiency.
 
 ---
 
-### 🔨 Open Source
+### ⚙️ Project Engineering
 
-Contributing through HackFest and community-driven software projects.
+Engineering-focused platform emphasizing structured development and workflow management.
 
 ---
 
