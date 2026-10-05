@@ -72,12 +72,6 @@ A technology-driven platform focused on reducing food waste by connecting surplu
 - Full-stack development
 - Social-impact technology
 
-### Movu
-
-A software platform exploring mobility, logistics, and operational efficiency.
-
-Built around solving real-world transportation and movement problems through software.
-
 ## Tech Stack
 
 **Languages**
@@ -100,7 +94,7 @@ Built around solving real-world transportation and movement problems through sof
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,vercel,netlify" /> </p>
 
-<p> <img src="https://cdn.simpleicons.org/openai/000000" height="45" /> <img src="https://cdn.simpleicons.org/ollama/000000" height="45" /> <img src="https://cdn.simpleicons.org/openrouter/8B5CF6" height="45" /> <img src="https://cdn.simpleicons.org/render/46E3B7" height="45" /> </p>
+<p> <img src="https://cdn.simpleicons.org/ollama/000000" height="45" /> <img src="https://cdn.simpleicons.org/openrouter/8B5CF6" height="45" /> <img src="https://cdn.simpleicons.org/render/46E3B7" height="45" /> </p>
 
 ### Backend
 
@@ -127,15 +121,33 @@ Built around solving real-world transportation and movement problems through sof
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## GitHub Activity
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aryanpatil-07&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpatil-07&layout=compact&hide_border=true&theme=transparent" height="180"/> </p>
+## Open Source
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpatil-07&hide_border=true&theme=transparent" /> </p>
+Active contributor to large-scale open-source ecosystems, focusing on developer tooling, documentation infrastructure, and runtime reliability.
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpatil-07&theme=react-dark&hide_border=true&area=true" width="100%"/> </p>
+### Highlighted Ecosystems & Contributions
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aryanpatil-07&theme=algolia&no-frame=true&row=1&column=6" /> </p>
+#### [Docusaurus](https://github.com/facebook/docusaurus)
+> Modern static-site generator and documentation infrastructure by Meta (66k+ ★)
+
+- **Focus**: Developer experience, documentation architecture, and React/TypeScript tooling.
+- **Work**: Contributing to documentation infrastructure, component reliability, and developer tooling workflows.
+- **Tech**: `React` `TypeScript` `Documentation Systems` `MDX`
+
+#### [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+> Open-source codebase and learning platform empowering millions of developers (450k+ ★)
+
+- **Focus**: Interactive curriculum, developer onboarding, and full-stack web platforms.
+- **Work**: Triaging and improving codebase modules, educational pipelines, and developer-facing features.
+- **Tech**: `TypeScript` `Node.js` `React` `Open Education`
+
+---
+
+**What I Care About in Open Source**
+- **Robust Codebases**: Writing defensive, well-tested code that prevents silent runtime bugs.
+- **Developer Enablement**: Making software and knowledge accessible to teams and learners worldwide.
+- **Ecosystem Health**: Active participation in code reviews, bug triaging, and documentation clarity.
 
 ## Research & Exploration
 
@@ -153,26 +165,36 @@ I'm particularly interested in areas where software engineering meets intelligen
 - Software Architecture
 - Human-AI Interaction
 
-## Open Source
 
-Contributing to open-source projects and developer communities while learning how large software projects are designed, maintained, reviewed, and evolved.
+## GitHub Activity
 
-**Interested in**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Shipping+real+projects+early;Building+EarlyBird+AI;Backend+%7C+Flutter+%7C+MERN" alt="typing" />
+</p>
 
-- Open-source contributions
-- AI/ML projects
-- Developer tooling
-- Research-oriented software
-- Systems engineering
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanpatil-07&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpatil-07&layout=donut-vertical&langs_count=6&hide_border=true&theme=tokyonight" />
+</p>
 
-## 2026
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aryanpatil-07&theme=tokyonight&hide_border=true" />
+</p>
 
-- Build Second Brain AI
-- Build EarlyBird
-- Deepen AI Engineering fundamentals
-- Contribute consistently to open source
-- Publish technical research
-- Build production-grade AI systems
-- Explore intelligent systems and complex systems research
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpatil-07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanpatil-07/aryanpatil-07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanpatil-07/aryanpatil-07/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/aryanpatil-07/aryanpatil-07/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanpatil-07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
+</p>
 
 <p align="center"> <br> <strong>Building systems that don't just execute — they understand.</strong> <br><br> </p>
